@@ -1,0 +1,23 @@
+{
+    "id": "4",
+    "title": "Introduction to Next.js",
+    "slug": "introduction-to-nextjs",
+    "summary": "Learn the basics of Next.js and how to build powerful web applications.",
+    "author": {
+      "name": "John Doe",
+      "image": "https://via.placeholder.com/50"
+    },
+    "publishedAt": "2025-02-01",
+    "content": "<p>Next.js is a powerful React framework...</p>",
+    "image": {
+      "url": "https://via.placeholder.com/1200x630",
+      "alt": "Introduction to Next.js"
+    },
+    "seo": {
+      "title": "Introduction to Next.js",
+      "description": "Learn the basics of Next.js and how to build powerful web applications.",
+      "keywords": ["Next.js", "React", "JavaScript"],
+      "ogImage": "https://via.placeholder.com/1200x630"
+    }
+  }
+  
